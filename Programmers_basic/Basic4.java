@@ -34,7 +34,7 @@ public class Basic4 {
     ***charAt()
 
     Scanner로 입력을 받을 때는 String타입으로 밖에 받을 수 없다.
-    그래서 등장한 것이 chatAt()
+    그래서 등장한 것이 charAt()
     charAt은 String으로 저장된 문자열 중에서 한 글자만 선택해서 char타입으로 바꿔준다.
     str.charAt(index); 형태로 사용.
 */
